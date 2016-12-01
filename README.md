@@ -17,6 +17,7 @@
   * Class 1
     * rails new, rails g scaffold, rails g controller, rails g model
     * Two conventions: REST & OOP - Understand and memorize RESTful routes (resources)
+    * HW - Rails guides Getting Started with Rails
   * Class 2
     * Opinionated vs unopinionated framework
     * Build and push a one a single resource app
@@ -25,6 +26,7 @@
     * Build and push a two resource app with scaffolds and has_many.
 1. Week 2 - **How to Code in Rails** - User-Centered Development
   * Class 1
+    * Rails guides Getting Started with Rails
     * User-centered development, start with the view, Errors are signposts
     * Build a single resource app
   * Class 2
@@ -41,7 +43,7 @@
     * Bootstrap with CDM
     * Bootstrap smoke test, grid, typography
   * Class 2
-    * Asset Pipeline 
+    * Asset Pipeline
     * Bootstrap with Gem
     * Bootstrap components, responsive helpers, forms
   * Class 3
@@ -66,7 +68,7 @@
   * Class 3
     * has_many :through & polymorphic associations
     * add comments has_many comments pattern
-1. Week 6 
+1. Week 6
   * Class 1
     * has_secure_password, sign_up, session, current_user
   * Class 2
@@ -81,9 +83,9 @@
     * API Design & Jbuilder
   * Class 3
     * Start Project Week
-  
+
 1. Week 8 - Project Week
-  
+
 ## Extra Resources
 
 1. [Rails Guides: Routing](http://guides.rubyonrails.org/routing.html)
